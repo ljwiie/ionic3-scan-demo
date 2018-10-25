@@ -1,7 +1,7 @@
 #ionic-tabs
 
 ## 效果
-<img src="./src/assets/imgs/WechatIMG423.jpeg" />
+<img src="./src/assets/imgs/WechatIMG423.jpeg" width="320px"/>
 <img src="./src/assets/imgs/WechatIMG422.png" />
 
 ## 安装Ionic v3
